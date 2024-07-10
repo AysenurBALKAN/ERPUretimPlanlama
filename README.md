@@ -6,7 +6,7 @@ Her malzeme için barkod üretimi sağlayarak üretim ve stok takibini kolaylaş
 ## Yapılan İşlemler
 
 
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BCsteriTek.PNG" width="80%" height="450px">
+<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BCsteriTek.PNG" width="80%" height="400px">
 <img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BCsterisip.PNG" width="100%" height="350px">
 <img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/mlzihtiyac.PNG" width="100%" height="350px">
 <img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/sat%C4%B1nalmasip.PNG" width="100%" height="350px">
